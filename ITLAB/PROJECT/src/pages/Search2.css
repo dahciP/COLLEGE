@@ -1,0 +1,127 @@
+.search2-rectangle-19-div {
+  position: absolute;
+  top: 187px;
+  left: 62px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-blue-500);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1320px;
+  height: 52px;
+}
+.search2-search-interface-symbo-icon {
+  position: absolute;
+  top: 198px;
+  left: 91px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.search2-shoes-div {
+  position: absolute;
+  top: 198px;
+  left: 147px;
+  display: inline-block;
+}
+.search2-rectangle-20-icon {
+  position: absolute;
+  top: 291px;
+  left: 111px;
+  border-radius: 40px;
+  width: 264px;
+  height: 264px;
+}
+.search2-shoes-2-icon {
+  position: absolute;
+  top: 323px;
+  left: 158px;
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+}
+.shoes-cleaning-div {
+  position: absolute;
+  top: 493px;
+  left: 145px;
+  display: inline-block;
+}
+.washaholic-logo-icon5 {
+  position: absolute;
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+  object-fit: cover;
+}
+.about-us-div5,
+.home-div5 {
+  position: relative;
+  display: inline-block;
+}
+.home-div5 {
+  color: var(--color-blue-100);
+}
+.about-us-div5 {
+  cursor: pointer;
+}
+.navbar-frame-div5 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div5,
+.washaholic-div5 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div5 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div5 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div5 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.header-div5,
+.search2-div {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.header-div5 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+}
+.search2-div {
+  position: relative;
+  width: 100%;
+  height: 1061px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

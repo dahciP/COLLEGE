@@ -1,0 +1,150 @@
+.google-360-f-339709048-zitr4wr-icon {
+  position: absolute;
+  top: 78px;
+  left: 456px;
+  width: 527px;
+  height: 350px;
+  object-fit: cover;
+}
+.google-lets-you-in {
+  position: absolute;
+  top: 428px;
+  left: 590px;
+  font-size: var(--font-size-4xl);
+  line-height: 110px;
+  font-weight: 600;
+  display: inline-block;
+}
+.google-rectangle-1-div,
+.google-rectangle-2-div {
+  position: absolute;
+  top: calc(50% - -45px);
+  left: 463px;
+  border-radius: var(--br-md);
+  background-color: var(--color-blue-300);
+  width: 514px;
+  height: 67px;
+}
+.google-rectangle-2-div {
+  top: calc(50% - -146px);
+}
+.google-continue-with-facebook,
+.google-continue-with-google {
+  position: absolute;
+  top: 574px;
+  left: 634px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 367px;
+  height: 34px;
+}
+.google-continue-with-facebook {
+  top: 675px;
+  left: 624px;
+}
+.google-facebook-1-icon,
+.google-google-1-icon {
+  position: absolute;
+  top: 574px;
+  left: 583px;
+  width: 34px;
+  height: 33px;
+  object-fit: cover;
+}
+.google-facebook-1-icon {
+  top: 671px;
+  left: 577px;
+  width: 33px;
+}
+.google-line-1-div {
+  position: absolute;
+  top: 788.5px;
+  left: 444.5px;
+  border-top: 1px solid var(--color-blue-100);
+  box-sizing: border-box;
+  width: 211px;
+  height: 1px;
+}
+.google-or-div {
+  position: absolute;
+  top: 734px;
+  left: 709px;
+  line-height: 110px;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  display: inline-block;
+}
+.google-line-2-div {
+  position: absolute;
+  top: 788.5px;
+  left: 790.5px;
+  border-top: 1px solid var(--color-blue-100);
+  box-sizing: border-box;
+  width: 211px;
+  height: 1px;
+}
+.google-buttonsign-in-with-pass {
+  position: absolute;
+  top: 9px;
+  left: 149px;
+  display: inline-block;
+}
+.google-button-div {
+  position: absolute;
+  top: 844px;
+  left: 463px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 514px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.span3 {
+  color: var(--color-black);
+}
+.google-dont-have-an-account {
+  position: absolute;
+  top: 922px;
+  left: 583px;
+  display: inline-block;
+  color: var(--color-gray-800);
+}
+.span4 {
+  color: var(--color-blue-200);
+}
+.google-already-have-an-account,
+.google-login-in-div,
+.google-sign-up-div {
+  position: absolute;
+  top: 955px;
+  left: 568px;
+  display: inline-block;
+  color: var(--color-gray-700);
+}
+.google-login-in-div,
+.google-sign-up-div {
+  left: 818px;
+  color: var(--color-blue-100);
+  width: 103px;
+  height: 19px;
+  cursor: pointer;
+}
+.google-sign-up-div {
+  top: 922px;
+  left: 808px;
+}
+.google-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

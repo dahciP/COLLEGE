@@ -1,0 +1,340 @@
+.payment-pickup-rectangle-21-div {
+  position: absolute;
+  top: 58px;
+  left: 18px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-blue-200);
+  width: 1280px;
+  height: 84px;
+}
+.payment-pickup-div {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1282px;
+  height: 124px;
+}
+.payment-arrow-1-icon {
+  position: absolute;
+  top: 88.95px;
+  left: 84.5px;
+  width: 12.55px;
+  height: 22.09px;
+}
+.payment-pickup-group-58-div {
+  position: absolute;
+  top: 146px;
+  left: 63px;
+  width: 1298px;
+  height: 162px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.payment-proceedtopay-rectangle-div {
+  position: absolute;
+  top: 20px;
+  left: 2px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-blue-200);
+  width: 1280px;
+  height: 84px;
+}
+.payment-proceed-to-pay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1282px;
+  height: 124px;
+}
+.payment-proceedtopay-group-64-div {
+  position: absolute;
+  top: 1245px;
+  left: 79px;
+  width: 1282px;
+  height: 124px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.payment-payment-div,
+.payment-total-div {
+  position: absolute;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: inline-block;
+}
+.payment-payment-div {
+  top: 346px;
+  left: 101px;
+  font-weight: 600;
+  color: var(--color-blue-100);
+}
+.payment-total-div {
+  top: 1110px;
+  left: 111px;
+  font-weight: 800;
+}
+.payment-payment-options-div {
+  position: absolute;
+  top: 427px;
+  left: 101px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.payment-paymentoptions-rectang-div {
+  position: absolute;
+  top: 462px;
+  left: 79px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1282px;
+  height: 545px;
+}
+.payment-belowcd-line-7-div {
+  position: absolute;
+  top: 575.5px;
+  left: 111.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1226px;
+  height: 1px;
+}
+.payment-belowcoins-line-9-div,
+.payment-belowgpay-line-10-div,
+.payment-belownb-line-8-div,
+.payment-belowtotal-line-11-div {
+  position: absolute;
+  top: 682.5px;
+  left: 111.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1226px;
+  height: 1px;
+}
+.payment-belowcoins-line-9-div,
+.payment-belowgpay-line-10-div,
+.payment-belowtotal-line-11-div {
+  top: 785.5px;
+}
+.payment-belowgpay-line-10-div,
+.payment-belowtotal-line-11-div {
+  top: 887.5px;
+}
+.payment-belowtotal-line-11-div {
+  top: 1179.5px;
+  left: 112.5px;
+}
+.payment-cd-ellipse-18-icon {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 38px;
+  height: 38px;
+}
+.payment-cd-credit-card-1-icon {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  width: 51px;
+  height: 45px;
+  object-fit: cover;
+}
+.payment-cd-creditdebit-card-div {
+  position: absolute;
+  top: 8px;
+  left: 171px;
+  display: inline-block;
+}
+.payment-cd-group-59-div {
+  position: absolute;
+  top: 500px;
+  left: 111px;
+  width: 371px;
+  height: 45px;
+}
+.payment-nb-ellipse-18-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 38px;
+}
+.payment-nb-net-banking-div {
+  position: absolute;
+  top: 4px;
+  left: 171px;
+  display: inline-block;
+}
+.payment-nb-group-60-div {
+  position: absolute;
+  top: 611px;
+  left: 112px;
+  width: 310px;
+  height: 38px;
+}
+.payment-cash-group-63-div,
+.payment-insite-group-61-div {
+  position: absolute;
+  top: 714px;
+  left: 112px;
+  width: 335px;
+  height: 38px;
+}
+.payment-cash-group-63-div {
+  top: 919px;
+}
+.payment-gpay-div {
+  position: absolute;
+  top: 4px;
+  left: 172px;
+  display: inline-block;
+}
+.payment-gpay-group-62-div {
+  position: absolute;
+  top: 817px;
+  left: 111px;
+  width: 231px;
+  height: 38px;
+}
+.payment-provider-1-icon {
+  position: absolute;
+  top: 607px;
+  left: 194px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.payment-google-2-icon,
+.payment-logo-3-icon,
+.payment-money-1-icon {
+  position: absolute;
+  top: 710px;
+  left: 197px;
+  width: 38.82px;
+  height: 45px;
+  object-fit: cover;
+}
+.payment-google-2-icon,
+.payment-money-1-icon {
+  top: 813px;
+  left: 194px;
+  width: 45px;
+}
+.payment-money-1-icon {
+  top: 915px;
+}
+.payment-5400-div,
+.payment-apply-coupons-div {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.payment-5400-div {
+  top: 1109px;
+  left: 1148px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+}
+.payment-apply-coupons-div {
+  top: 1197px;
+  left: 1156px;
+  color: var(--color-blue-100);
+  cursor: pointer;
+}
+.washaholic-logo-icon1 {
+  position: absolute;
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+  object-fit: cover;
+}
+.about-us-div1,
+.home-div1 {
+  position: relative;
+  display: inline-block;
+}
+.home-div1 {
+  color: var(--color-blue-100);
+}
+.about-us-div1 {
+  cursor: pointer;
+}
+.navbar-frame-div1 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div1,
+.washaholic-div1 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div1 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div1 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div1 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.header-div1,
+.payment-div {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.header-div1 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+  font-size: var(--font-size-base);
+}
+.payment-div {
+  position: relative;
+  width: 100%;
+  height: 1447px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
