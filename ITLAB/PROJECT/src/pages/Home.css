@@ -1,0 +1,555 @@
+.home-dp-1-1-div {
+  position: absolute;
+  top: 233px;
+  left: 664px;
+  width: 741px;
+  height: 743px;
+}
+.home-we-provide-professional-s {
+  position: absolute;
+  top: 368px;
+  left: 81px;
+  font-size: var(--font-size-6xl);
+  line-height: 110px;
+  font-weight: 600;
+  display: inline-block;
+  width: 522px;
+  height: 430px;
+}
+.home-special-offers-div {
+  position: absolute;
+  top: 1002px;
+  left: 100px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.home-see-all-div {
+  top: 1002px;
+  left: 1267px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blue-200);
+}
+.home-see-all-div,
+.home-services-div,
+.home-wash1-div {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-services-div {
+  top: 1538px;
+  left: 107px;
+  font-size: var(--font-size-xl);
+}
+.home-wash1-div {
+  top: 1834px;
+  left: 240px;
+}
+.home-combo-div,
+.home-shoes-wash-div,
+.home-special-combo-div,
+.home-wash-div {
+  position: absolute;
+  top: 2068px;
+  left: 1111px;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-combo-div,
+.home-shoes-wash-div,
+.home-wash-div {
+  left: 240px;
+}
+.home-combo-div,
+.home-shoes-wash-div {
+  top: 2072px;
+  left: 846px;
+}
+.home-shoes-wash-div {
+  left: 529px;
+}
+.home-dry-cleaning-div,
+.home-ironing-div,
+.home-special-wash-div {
+  position: absolute;
+  top: 1839px;
+  left: 1122px;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-ironing-div,
+.home-special-wash-div {
+  top: 1834px;
+  left: 855px;
+}
+.home-special-wash-div {
+  left: 515px;
+}
+.home-most-popular-services,
+.home-see-all-div1,
+.home-see-all-div2 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.home-see-all-div1 {
+  top: 1538px;
+  left: 1274px;
+  color: var(--color-blue-200);
+  cursor: pointer;
+}
+.home-most-popular-services,
+.home-see-all-div2 {
+  top: 2206px;
+  left: 107px;
+}
+.home-see-all-div2 {
+  left: 1274px;
+  color: var(--color-blue-200);
+  cursor: pointer;
+}
+.home-rectangle-4-rectangle-4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 45px;
+  background-color: rgba(255, 255, 255, 0.75);
+  mix-blend-mode: multiply;
+}
+.home-rectangle-4-div {
+  position: absolute;
+  top: 1105px;
+  left: 107px;
+  border-radius: var(--br-md);
+  background-color: rgba(114, 16, 255, 0.1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1265px;
+  height: 349px;
+}
+.home-30-off-div {
+  position: absolute;
+  top: 1150px;
+  left: 208px;
+  font-size: var(--font-size-6xl);
+  line-height: 110px;
+  font-weight: 600;
+  color: var(--color-blue-200);
+  display: inline-block;
+  width: 380px;
+  height: 103px;
+}
+.home-ellipse-1-icon,
+.home-ellipse-2-icon {
+  position: absolute;
+  top: 1641px;
+  left: 177px;
+  width: 188px;
+  height: 188px;
+}
+.home-ellipse-2-icon {
+  left: 479px;
+}
+.home-ellipse-3-icon,
+.home-ellipse-4-icon,
+.home-ellipse-5-icon {
+  position: absolute;
+  top: 1641px;
+  left: 787px;
+  width: 188px;
+  height: 188px;
+}
+.home-ellipse-4-icon,
+.home-ellipse-5-icon {
+  left: 1089px;
+}
+.home-ellipse-5-icon {
+  top: 1870px;
+  left: 177px;
+}
+.home-ellipse-6-icon,
+.home-ellipse-7-icon,
+.home-ellipse-8-icon {
+  position: absolute;
+  top: 1870px;
+  left: 480px;
+  width: 188px;
+  height: 188px;
+}
+.home-ellipse-7-icon,
+.home-ellipse-8-icon {
+  left: 788px;
+}
+.home-ellipse-8-icon {
+  left: 1090px;
+}
+.home-for-first-100-new-custome,
+.home-todays-special-div {
+  position: absolute;
+  top: 1326px;
+  left: 208px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-blue-200);
+  display: inline-block;
+  width: 380px;
+}
+.home-todays-special-div {
+  top: 1258px;
+  font-size: var(--font-size-4xl);
+  font-weight: 500;
+  width: 429px;
+}
+.home-untitled-design-2-1 {
+  position: absolute;
+  top: 982px;
+  left: 828px;
+  width: 492px;
+  height: 504px;
+  object-fit: cover;
+}
+.home-rectangle-5-icon {
+  position: absolute;
+  top: 2879.5px;
+  left: 1526.5px;
+  width: 1440px;
+  height: 226px;
+}
+.home-washing-machine-2-icon {
+  position: absolute;
+  top: 1916px;
+  left: 838px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home-ironing-1-icon,
+.home-laundry-basket-1-icon,
+.home-laundry-machine-1-icon {
+  position: absolute;
+  top: 1684px;
+  left: 523px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home-ironing-1-icon,
+.home-laundry-basket-1-icon {
+  top: 1681px;
+  left: 222px;
+}
+.home-ironing-1-icon {
+  left: 831px;
+}
+.home-dry-cleaning-2-icon,
+.home-shoes-1-icon,
+.home-special-tag-1-icon,
+.home-stiching-2-icon {
+  position: absolute;
+  top: 1922px;
+  left: 523px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home-dry-cleaning-2-icon,
+.home-special-tag-1-icon,
+.home-stiching-2-icon {
+  top: 1681px;
+  left: 1134px;
+}
+.home-special-tag-1-icon,
+.home-stiching-2-icon {
+  top: 1910px;
+  left: 222px;
+}
+.home-special-tag-1-icon {
+  top: 1914px;
+  left: 1133px;
+  height: 103.39px;
+}
+.home-1427642388-ironing-steam-icon,
+.home-how-to-clean-your-sneaker-icon {
+  position: absolute;
+  top: 2291px;
+  left: 96px;
+  border-radius: var(--br-xl);
+  width: 1273px;
+  height: 351px;
+  object-fit: cover;
+}
+.home-how-to-clean-your-sneaker-icon {
+  top: 2680px;
+}
+.home-dp-1-2-icon,
+.washaholic-logo-icon15 {
+  position: absolute;
+  top: 216px;
+  left: 629px;
+  width: 750px;
+  height: 682.07px;
+  object-fit: cover;
+}
+.washaholic-logo-icon15 {
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+}
+.about-us-div16,
+.home-div16 {
+  position: relative;
+  display: inline-block;
+}
+.home-div16 {
+  color: var(--color-blue-100);
+}
+.about-us-div16 {
+  cursor: pointer;
+}
+.navbar-frame-div15 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div16,
+.washaholic-div15 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div15 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div16 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div15 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.footer-email-rectangle-15-div4,
+.header-div15 {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.header-div15 {
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.footer-email-rectangle-15-div4 {
+  top: 232px;
+  left: 111px;
+  border-radius: var(--br-sm);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 504px;
+  height: 56px;
+}
+.footer-your-email-address4 {
+  position: absolute;
+  top: 249px;
+  left: 163px;
+  color: var(--color-black);
+  display: inline-block;
+  opacity: 0.56;
+}
+.footer-mail-icbaseline-mail-icon4 {
+  position: absolute;
+  top: 248px;
+  left: 130px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.footer-subscribe-rectangle-16-div4 {
+  position: absolute;
+  top: 240px;
+  left: 505px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-blue-100);
+  width: 100px;
+  height: 40px;
+}
+.footer-subscribe-div8 {
+  position: absolute;
+  top: 249px;
+  left: 521px;
+  text-align: center;
+  display: inline-block;
+}
+.footer-background-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 416px;
+}
+.footer-get-in-touch4 {
+  position: absolute;
+  top: 69px;
+  left: 111px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.footer-resources-b4,
+.footer-services-b4,
+.footer-support-b4 {
+  position: absolute;
+  top: 78px;
+  left: 731px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.08em;
+  display: inline-block;
+}
+.footer-resources-b4,
+.footer-support-b4 {
+  left: 938px;
+}
+.footer-support-b4 {
+  left: 1146px;
+}
+.footer-we-provide-the-best-onl4 {
+  position: absolute;
+  top: 155px;
+  left: 111px;
+  font-size: var(--font-size-4xs);
+  display: inline-block;
+  width: 507px;
+}
+.washing-p4 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.special-wash4 {
+  margin: 0;
+}
+.footer-contact-privacy-terms-o4,
+.footer-services-contact-us-abo4,
+.footer-washing-ironing-shoes-c4 {
+  position: absolute;
+  top: 123px;
+  left: 731px;
+  font-size: var(--font-size-7xs);
+  line-height: 24px;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 166px;
+}
+.footer-contact-privacy-terms-o4,
+.footer-services-contact-us-abo4 {
+  left: 936px;
+}
+.footer-contact-privacy-terms-o4 {
+  left: 1144px;
+}
+.footer-2022-laundry-designe4 {
+  position: absolute;
+  top: 381px;
+  left: 111px;
+  font-size: var(--font-size-8xs);
+  color: var(--color-gray-1300);
+  display: inline-block;
+}
+.footer-socials-fb-frame-icon4,
+.footer-socials-twt-frame-icon4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.footer-socials-twt-frame-icon4 {
+  height: 20px;
+}
+.footer-frame-9-div4 {
+  position: absolute;
+  top: 378px;
+  left: 1110px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.footer-horizontal-line-div4 {
+  position: absolute;
+  top: 351.5px;
+  left: 110.5px;
+  border-top: 1px solid var(--color-gray-1400);
+  box-sizing: border-box;
+  width: 1200px;
+  height: 1px;
+}
+.footer-vertical-line-div4 {
+  position: absolute;
+  top: 79.5px;
+  left: 690.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 209px;
+}
+.footer-subscribe-div9 {
+  position: absolute;
+  top: 249px;
+  left: 522px;
+  text-align: center;
+  display: inline-block;
+}
+.footer-div4,
+.home-div15 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.footer-div4 {
+  position: absolute;
+  top: 3106px;
+  left: 0;
+  width: 1440px;
+  height: 416px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-heebo);
+}
+.home-div15 {
+  position: relative;
+  width: 100%;
+  height: 3529px;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
