@@ -5,6 +5,10 @@ import "./Offers.css";
 const Offers = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onAboutUsTextClick = useCallback(() => {
     navigate("/about-us");
   }, [navigate]);
@@ -96,7 +100,9 @@ const Offers = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div8">
-          <div className="home-div8">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div8" onClick={onAboutUsTextClick}>
             About Us
           </div>

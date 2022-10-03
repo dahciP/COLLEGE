@@ -5,6 +5,10 @@ import "./History2.css";
 const History2 = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onAboutUsTextClick = useCallback(() => {
     navigate("/about-us");
   }, [navigate]);
@@ -84,7 +88,9 @@ const History2 = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div13">
-          <div className="home-div13">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div13" onClick={onAboutUsTextClick}>
             About Us
           </div>

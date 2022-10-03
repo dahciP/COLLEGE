@@ -5,6 +5,10 @@ import "./Payment.css";
 const Payment = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onPaymentPickupGroup58ContainerClick = useCallback(() => {
     navigate("/delivery");
   }, [navigate]);
@@ -139,7 +143,9 @@ const Payment = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div1">
-          <div className="home-div1">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div1" onClick={onAboutUsTextClick}>
             About Us
           </div>

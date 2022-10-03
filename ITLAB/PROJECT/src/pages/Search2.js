@@ -5,6 +5,10 @@ import "./Search2.css";
 const Search2 = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onAboutUsTextClick = useCallback(() => {
     navigate("/about-us");
   }, [navigate]);
@@ -52,7 +56,9 @@ const Search2 = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div5">
-          <div className="home-div5">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div5" onClick={onAboutUsTextClick}>
             About Us
           </div>

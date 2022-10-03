@@ -5,6 +5,10 @@ import "./Delivery.css";
 const Delivery = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onDeliveryGroup4ContainerClick = useCallback(() => {
     navigate("/cart");
   }, [navigate]);
@@ -122,7 +126,9 @@ const Delivery = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div3">
-          <div className="home-div3">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div3" onClick={onAboutUsTextClick}>
             About Us
           </div>

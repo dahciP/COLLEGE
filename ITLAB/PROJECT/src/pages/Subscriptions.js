@@ -5,6 +5,10 @@ import "./Subscriptions.css";
 const Subscriptions = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onSubscriptionsRectangle7Click = useCallback(() => {
     navigate("/login");
   }, [navigate]);
@@ -211,7 +215,9 @@ const Subscriptions = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div2">
-          <div className="home-div2">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div2" onClick={onAboutUsTextClick}>
             About Us
           </div>

@@ -5,6 +5,10 @@ import "./HeaderAndFooter.css";
 const HeaderAndFooter = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+  
   const onAboutUsTextClick = useCallback(() => {
     navigate("/about-us");
   }, [navigate]);
@@ -114,7 +118,9 @@ const HeaderAndFooter = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div">
-          <div className="home-div">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div" onClick={onAboutUsTextClick}>
             About Us
           </div>

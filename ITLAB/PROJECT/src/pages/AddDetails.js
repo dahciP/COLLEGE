@@ -5,6 +5,10 @@ import "./AddDetails.css";
 const AddDetails = () => {
   const navigate = useNavigate();
 
+  const onHomeTextClick = useCallback(() => {
+    navigate("/home");
+  }, [navigate]);
+
   const onAdddetailsCompleteOrderTextClick = useCallback(() => {
     navigate("/cart");
   }, [navigate]);
@@ -174,7 +178,9 @@ const AddDetails = () => {
           src="../washaholic-logo@2x.png"
         />
         <div className="navbar-frame-div9">
-          <div className="home-div9">Home</div>
+          <div className="home-div14"  onClick={onHomeTextClick}>
+            Home
+          </div>
           <div className="about-us-div9" onClick={onAboutUsTextClick}>
             About Us
           </div>
