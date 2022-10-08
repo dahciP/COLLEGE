@@ -1,0 +1,384 @@
+.profile-group2-rectangle-18-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: rgba(122, 30, 255, 0.11);
+  width: 1301px;
+  height: 317px;
+}
+.profile-group2-ellipse-17-icon {
+  position: absolute;
+  top: 69px;
+  left: 73px;
+  width: 179px;
+  height: 179px;
+}
+.profile-group2-areous-ahmad-div {
+  position: absolute;
+  top: 63px;
+  left: 346px;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: inline-block;
+}
+.profile-group2-areousgoldvill,
+.profile-group2-edit-info-div {
+  position: absolute;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  color: var(--color-gray-1200);
+}
+.profile-group2-areousgoldvill {
+  top: 133px;
+  left: 346px;
+  font-size: var(--font-size-2xs);
+  text-decoration: underline;
+  display: flex;
+  align-items: center;
+  width: 478px;
+  height: 13px;
+}
+.profile-group2-edit-info-div {
+  top: 257px;
+  left: 1177px;
+  font-size: var(--font-size-4xs);
+  display: inline-block;
+}
+.profile-group2-line-6-div {
+  position: absolute;
+  top: 162px;
+  left: 345.48px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 909.04px;
+  height: 1px;
+}
+.profile-group2-road-d3-house-2 {
+  position: absolute;
+  top: 179px;
+  left: 346px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 902px;
+  height: 85px;
+}
+.profile-group2-div {
+  position: absolute;
+  top: 203px;
+  left: 70px;
+  width: 1301px;
+  height: 327px;
+}
+.profile-previous-orders-div {
+  position: absolute;
+  top: 533px;
+  left: 81px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: inline-block;
+}
+.profile-image-4-icon {
+  position: absolute;
+  top: 267px;
+  left: 128px;
+  border-radius: 90px;
+  width: 172px;
+  height: 172px;
+  object-fit: cover;
+}
+.profile-rectangle-19-div {
+  position: absolute;
+  top: 627px;
+  left: 81px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1290px;
+  height: 493px;
+}
+.profile-group1-rectangle-10-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-1000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1210px;
+  height: 122px;
+}
+.profile-group1-clothes-rail-wi-icon {
+  position: absolute;
+  top: 13px;
+  left: 14.73px;
+  border-radius: var(--br-xs);
+  width: 94.29px;
+  height: 96px;
+  object-fit: cover;
+}
+.profile-group1-clothes-cleanin-div,
+.profile-group1-water-wash-and {
+  position: absolute;
+  top: 13px;
+  left: 130.63px;
+  font-weight: 600;
+  display: inline-block;
+  width: 177.77px;
+  height: 33px;
+}
+.profile-group1-water-wash-and {
+  top: 36px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.profile-group1-rectangle-11-div,
+.profile-group1-rectangle-16-div,
+.profile-group1-rectangle-17-div {
+  position: absolute;
+  top: 69px;
+  left: 132.59px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 112.95px;
+  height: 26px;
+}
+.profile-group1-rectangle-16-div,
+.profile-group1-rectangle-17-div {
+  top: 375px;
+  left: 136.52px;
+}
+.profile-group1-rectangle-16-div {
+  top: 222px;
+}
+.profile-group1-view-details-div {
+  position: absolute;
+  top: 72px;
+  left: 142px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 121px;
+  cursor: pointer;
+}
+.profile-group1-rectangle-12-div {
+  position: absolute;
+  top: 153px;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-1000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1210px;
+  height: 122px;
+}
+.profile-group1-clothes-rail-wi-icon1 {
+  position: absolute;
+  top: 166px;
+  left: 18.66px;
+  border-radius: var(--br-xs);
+  width: 94.29px;
+  height: 96px;
+  object-fit: cover;
+}
+.profile-group1-clothes-ironing-div,
+.profile-group1-ironing-div {
+  position: absolute;
+  top: 166px;
+  left: 132.57px;
+  font-weight: 600;
+  display: inline-block;
+  width: 178.75px;
+  height: 33px;
+}
+.profile-group1-ironing-div {
+  top: 189px;
+  left: 133.57px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.profile-group1-rectangle-13-div {
+  position: absolute;
+  top: 222px;
+  left: 136.52px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 99.2px;
+  height: 26px;
+}
+.profile-group1-rectangle-14-div {
+  position: absolute;
+  top: 306px;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1210px;
+  height: 122px;
+}
+.profile-group1-clothes-rail-wi-icon2 {
+  position: absolute;
+  top: 319px;
+  left: 14.73px;
+  border-radius: var(--br-xs);
+  width: 94.29px;
+  height: 96px;
+  object-fit: cover;
+}
+.profile-group1-shoes-cleaning-div,
+.profile-group1-shoes-wash-and {
+  position: absolute;
+  top: 319px;
+  left: 130.63px;
+  font-weight: 600;
+  display: inline-block;
+  width: 177.77px;
+  height: 33px;
+}
+.profile-group1-shoes-wash-and {
+  top: 342px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.profile-group1-rectangle-15-div {
+  position: absolute;
+  top: 375px;
+  left: 132.59px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 116.88px;
+  height: 26px;
+}
+.profile-group1-download-1-icon {
+  position: absolute;
+  top: 166px;
+  left: 18.66px;
+  border-radius: var(--br-xs);
+  width: 94.29px;
+  height: 97px;
+  object-fit: cover;
+}
+.profile-group1-view-details-div1,
+.profile-group1-view-details-div2 {
+  position: absolute;
+  font-weight: 600;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.profile-group1-view-details-div1 {
+  top: 226px;
+  left: 144.38px;
+  display: inline-block;
+  width: 126.7px;
+  height: 33px;
+}
+.profile-group1-view-details-div2 {
+  top: 375px;
+  left: 144px;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 26px;
+}
+.profile-group1-div {
+  position: absolute;
+  top: 655px;
+  left: 114px;
+  width: 1210px;
+  height: 428px;
+  font-size: var(--font-size-4xs);
+}
+.profile-view-history-div {
+  position: absolute;
+  top: 518px;
+  left: 1229px;
+  font-size: var(--font-size-2xs);
+  line-height: 110px;
+  color: var(--color-blue-200);
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+.washaholic-logo-icon7 {
+  position: absolute;
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+  object-fit: cover;
+}
+.about-us-div7,
+.home-div7 {
+  position: relative;
+  display: inline-block;
+}
+.home-div7 {
+  color: var(--color-blue-100);
+}
+.about-us-div7 {
+  cursor: pointer;
+}
+.navbar-frame-div7 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div7,
+.washaholic-div7 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div7 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div7 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div7 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.header-div7,
+.profile-div7 {
+  background-color: var(--color-white);
+}
+.header-div7 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.profile-div7 {
+  position: relative;
+  width: 100%;
+  height: 1218px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: 44px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

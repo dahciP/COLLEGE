@@ -1,0 +1,275 @@
+.delivery-group4-rectangle-21-icon {
+  position: absolute;
+  top: 55px;
+  left: 2px;
+  border-radius: var(--br-2xl);
+  width: 1280px;
+  height: 84px;
+}
+.delivery-group4-checkout-div {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1282px;
+  height: 124px;
+}
+.delivery-group4-arrow-1-icon {
+  position: absolute;
+  top: 88.95px;
+  left: 68.5px;
+  width: 12.55px;
+  height: 22.09px;
+}
+.delivery-group4-div {
+  position: absolute;
+  top: 139px;
+  left: 100px;
+  width: 1282px;
+  height: 159px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.delivery-pickup-div {
+  position: absolute;
+  top: 356px;
+  left: 116px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  display: inline-block;
+}
+.delivery-address-details-div,
+.delivery-pickup-option-div {
+  position: absolute;
+  top: 446px;
+  left: 116px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.delivery-pickup-option-div {
+  top: 685px;
+}
+.delivery-rectangle-22-div,
+.delivery-rectangle-23-div {
+  position: absolute;
+  top: 488px;
+  left: 100px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1282px;
+  height: 163px;
+}
+.delivery-rectangle-23-div {
+  top: 728px;
+  left: 99px;
+}
+.delivery-road-d3-house-23-pen {
+  position: absolute;
+  top: 557px;
+  left: 169px;
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.delivery-change-div {
+  position: absolute;
+  top: 446px;
+  left: 1305px;
+  font-size: var(--font-size-2xs);
+  color: #4fcae8;
+  display: inline-block;
+}
+.delivery-235-9305129867-div,
+.delivery-areous-ahmad-div {
+  position: absolute;
+  top: 512px;
+  left: 169px;
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.delivery-235-9305129867-div {
+  top: 605px;
+  left: 167px;
+}
+.delivery-line-7-icon,
+.delivery-line-8-icon,
+.delivery-line-9-icon {
+  position: absolute;
+  top: 547px;
+  left: 116px;
+  width: 1250px;
+  height: 3.99px;
+}
+.delivery-line-8-icon,
+.delivery-line-9-icon {
+  top: 598.5px;
+}
+.delivery-line-9-icon {
+  top: 804.5px;
+}
+.delivery-group3-ellipse-18-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 38px;
+}
+.delivery-group3-ellipse-19-icon {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  width: 23px;
+  height: 23px;
+}
+.includes-additional-charges {
+  font-size: var(--font-size-5xs);
+}
+.delivery-group3-door-pickup {
+  position: absolute;
+  top: 4px;
+  left: 107px;
+  display: inline-block;
+}
+.delivery-group2-div,
+.delivery-group3-div {
+  position: absolute;
+  top: 751px;
+  left: 141px;
+  width: 484px;
+  height: 38px;
+}
+.delivery-group2-div {
+  top: 823px;
+  width: 269px;
+}
+.delivery-group1-rectangle-21-div {
+  position: absolute;
+  top: 19px;
+  left: 20px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-blue-200);
+  width: 1271px;
+  height: 84px;
+}
+.delivery-group1-payment-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1282px;
+  height: 124px;
+}
+.delivery-group1-arrow-1-icon {
+  position: absolute;
+  top: 50.95px;
+  left: 1202.95px;
+  width: 12.55px;
+  height: 100px;
+}
+.delivery-group-1-div {
+  position: absolute;
+  top: 1068px;
+  left: 73px;
+  width: 1291px;
+  height: 162px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.washaholic-logo-icon3 {
+  position: absolute;
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+  object-fit: cover;
+}
+.about-us-div3,
+.home-div3 {
+  position: relative;
+  display: inline-block;
+}
+.home-div3 {
+  color: var(--color-blue-100);
+}
+.about-us-div3 {
+  cursor: pointer;
+}
+.navbar-frame-div3 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div3,
+.washaholic-div3 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div3 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div3 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div3 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.delivery-div,
+.header-div3 {
+  background-color: var(--color-white);
+}
+.header-div3 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.delivery-div {
+  position: relative;
+  width: 100%;
+  height: 1398px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

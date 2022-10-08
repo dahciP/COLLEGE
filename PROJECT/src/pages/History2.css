@@ -1,0 +1,286 @@
+.history2-rectangle-10-div {
+  position: absolute;
+  top: 411px;
+  left: 60px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-1000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1319px;
+  height: 122px;
+}
+.history2-cancelled-div,
+.history2-completed-div,
+.history2-my-booking-history {
+  position: absolute;
+  top: 166px;
+  left: 72px;
+  font-size: var(--font-size-2xl);
+  line-height: 110px;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  display: inline-block;
+}
+.history2-cancelled-div,
+.history2-completed-div {
+  top: 292px;
+  left: 298px;
+  font-size: var(--font-size-sm);
+  color: var(--color-blue-200);
+}
+.history2-cancelled-div {
+  top: 301px;
+  left: 927px;
+  color: var(--color-gray-1200);
+}
+.history2-line-5-icon {
+  position: absolute;
+  top: 382px;
+  left: 60px;
+  width: 1319px;
+  height: 6px;
+}
+.history2-clothes-rail-with-t-s-icon {
+  position: absolute;
+  top: 424px;
+  left: 98px;
+  border-radius: var(--br-xs);
+  width: 100px;
+  height: 96px;
+  object-fit: cover;
+}
+.history2-clothes-cleaning-div,
+.history2-water-wash-and-drying {
+  position: absolute;
+  top: 424px;
+  left: 220px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+  height: 33px;
+}
+.history2-water-wash-and-drying {
+  top: 447px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.history2-rectangle-11-div,
+.history2-rectangle-16-div,
+.history2-rectangle-17-div {
+  position: absolute;
+  top: 480px;
+  left: 222px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 119px;
+  height: 26px;
+}
+.history2-rectangle-16-div,
+.history2-rectangle-17-div {
+  top: 786px;
+  left: 227px;
+}
+.history2-rectangle-16-div {
+  top: 633px;
+}
+.history2-view-details-div {
+  position: absolute;
+  top: 484px;
+  left: 235px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 133px;
+  height: 33px;
+}
+.history2-rectangle-12-div {
+  position: absolute;
+  top: 564px;
+  left: 64px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-1000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1319px;
+  height: 122px;
+}
+.history2-clothes-rail-with-t-s-icon1 {
+  position: absolute;
+  top: 577px;
+  left: 103px;
+  border-radius: var(--br-xs);
+  width: 100px;
+  height: 96px;
+  object-fit: cover;
+}
+.history2-clothes-ironing-div,
+.history2-ironing-div {
+  position: absolute;
+  top: 577px;
+  left: 224px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+  height: 33px;
+}
+.history2-ironing-div {
+  top: 600px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.history2-rectangle-13-div {
+  position: absolute;
+  top: 633px;
+  left: 226px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 104px;
+  height: 26px;
+}
+.history2-rectangle-14-div {
+  position: absolute;
+  top: 717px;
+  left: 60px;
+  border-radius: var(--br-md);
+  background-color: var(--color-blue-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1319px;
+  height: 122px;
+}
+.history2-clothes-rail-with-t-s-icon2 {
+  position: absolute;
+  top: 730px;
+  left: 98px;
+  border-radius: var(--br-xs);
+  width: 100px;
+  height: 96px;
+  object-fit: cover;
+}
+.history2-shoes-cleaning-div,
+.history2-shoes-wash-and-drying {
+  position: absolute;
+  top: 730px;
+  left: 220px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+  height: 33px;
+}
+.history2-shoes-wash-and-drying {
+  top: 753px;
+  font-size: var(--font-size-6xs);
+  font-weight: 300;
+}
+.history2-rectangle-15-div {
+  position: absolute;
+  top: 786px;
+  left: 222px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue-100);
+  width: 104px;
+  height: 26px;
+}
+.history2-download-1-icon {
+  position: absolute;
+  top: 577px;
+  left: 102px;
+  border-radius: var(--br-xs);
+  width: 100px;
+  height: 97px;
+  object-fit: cover;
+}
+.history2-view-details-div1,
+.history2-view-details-div2 {
+  position: absolute;
+  top: 637px;
+  left: 235px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 133px;
+  height: 33px;
+}
+.history2-view-details-div2 {
+  top: 790px;
+  left: 233px;
+}
+.washaholic-logo-icon13 {
+  position: absolute;
+  top: 25px;
+  left: 45px;
+  width: 88px;
+  height: 102px;
+  object-fit: cover;
+}
+.about-us-div13,
+.home-div13 {
+  position: relative;
+  display: inline-block;
+}
+.home-div13 {
+  color: var(--color-blue-100);
+}
+.about-us-div13 {
+  cursor: pointer;
+}
+.navbar-frame-div13 {
+  position: absolute;
+  top: 61px;
+  left: 502px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.login-div13,
+.washaholic-div13 {
+  position: absolute;
+  display: inline-block;
+}
+.washaholic-div13 {
+  top: 38px;
+  left: 133px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: 0.1em;
+  line-height: 70px;
+  font-family: var(--font-inria-serif);
+  color: var(--color-blue-200);
+}
+.login-div13 {
+  top: 9px;
+  left: 43px;
+  font-weight: 600;
+}
+.header-login-button-div13 {
+  position: absolute;
+  top: 52px;
+  left: 1233px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-blue-100);
+  width: 153px;
+  height: 48px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.header-div13,
+.history2-div {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.header-div13 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 1440px;
+  height: 151px;
+  font-size: var(--font-size-base);
+}
+.history2-div {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
